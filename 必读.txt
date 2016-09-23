@@ -1,0 +1,9 @@
+1.改名 tools.iml 为 项目名.iml
+2.改名 java package名为你的package名
+3.更改dispatcher-servlet.xml中的扫描路径，数据库连接的地址、用户名、密码
+4.更改web.xml中的webAppRootKey为你的项目根路径名，更改display-name为你的项目默认名称
+5.替换.settings中的文件中所有的tools为你的项目名
+6.更改pom.xml中的repository和pluginRepository为你的maven仓库路径，更改finalName和contextPath为你的项目名，更改groupId、artifactId、name
+7.更改log4j.properties中的log4j.logger.com.smm.tools.dao和log4j.appender.logfile.File
+8.更改.project中的projectDescription中的name为你的项目名
+9.
