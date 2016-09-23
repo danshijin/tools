@@ -1,9 +1,8 @@
-1.¸ÄÃû tools.iml Îª ÏîÄ¿Ãû.iml
-2.¸ÄÃû java packageÃûÎªÄãµÄpackageÃû
-3.¸ü¸Ädispatcher-servlet.xmlÖĞµÄÉ¨ÃèÂ·¾¶£¬Êı¾İ¿âÁ¬½ÓµÄµØÖ·¡¢ÓÃ»§Ãû¡¢ÃÜÂë
-4.¸ü¸Äweb.xmlÖĞµÄwebAppRootKeyÎªÄãµÄÏîÄ¿¸ùÂ·¾¶Ãû£¬¸ü¸Ädisplay-nameÎªÄãµÄÏîÄ¿Ä¬ÈÏÃû³Æ
-5.Ìæ»».settingsÖĞµÄÎÄ¼şÖĞËùÓĞµÄtoolsÎªÄãµÄÏîÄ¿Ãû
-6.¸ü¸Äpom.xmlÖĞµÄrepositoryºÍpluginRepositoryÎªÄãµÄmaven²Ö¿âÂ·¾¶£¬¸ü¸ÄfinalNameºÍcontextPathÎªÄãµÄÏîÄ¿Ãû£¬¸ü¸ÄgroupId¡¢artifactId¡¢name
-7.¸ü¸Älog4j.propertiesÖĞµÄlog4j.logger.com.smm.tools.daoºÍlog4j.appender.logfile.File
-8.¸ü¸Ä.projectÖĞµÄprojectDescriptionÖĞµÄnameÎªÄãµÄÏîÄ¿Ãû
-9.
+1.æ”¹å tools.iml ä¸º é¡¹ç›®å.iml
+2.æ”¹å java packageåä¸ºä½ çš„packageå
+3.æ›´æ”¹dispatcher-servlet.xmlä¸­çš„æ‰«æè·¯å¾„ï¼Œæ•°æ®åº“è¿æ¥çš„åœ°å€ã€ç”¨æˆ·åã€å¯†ç 
+4.æ›´æ”¹web.xmlä¸­çš„webAppRootKeyä¸ºä½ çš„é¡¹ç›®æ ¹è·¯å¾„åï¼Œæ›´æ”¹display-nameä¸ºä½ çš„é¡¹ç›®é»˜è®¤åç§°
+5.æ›¿æ¢.settingsä¸­çš„æ–‡ä»¶ä¸­æ‰€æœ‰çš„toolsä¸ºä½ çš„é¡¹ç›®å
+6.æ›´æ”¹pom.xmlä¸­çš„repositoryå’ŒpluginRepositoryä¸ºä½ çš„mavenä»“åº“è·¯å¾„ï¼Œæ›´æ”¹finalNameå’ŒcontextPathä¸ºä½ çš„é¡¹ç›®åï¼Œæ›´æ”¹groupIdã€artifactIdã€name
+7.æ›´æ”¹log4j.propertiesä¸­çš„log4j.logger.com.smm.tools.daoå’Œlog4j.appender.logfile.File
+8.æ›´æ”¹.projectä¸­çš„projectDescriptionä¸­çš„nameä¸ºä½ çš„é¡¹ç›®å
